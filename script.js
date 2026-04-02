@@ -75,7 +75,8 @@ const phrases = [
     "Développeur Full Stack",
     "Créateur d'expériences web",
     "Passionné de technologies",
-    "Solutionneur de problèmes"
+    "Solutionneur de problèmes",
+    "Expert en traitement de donnée"
 ];
 
 let currentPhraseIndex = 0;
