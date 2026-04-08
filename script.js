@@ -72,11 +72,11 @@ icon.className = savedTheme === 'dark' ? 'fas fa-sun' : 'fas fa-moon';
 
 // Effet de typing
 const phrases = [
-    "Développeur Full Stack",
-    "Créateur d'expériences web",
-    "Passionné de technologies",
-    "Solutionneur de problèmes",
-    "Expert en traitement de donnée"
+    "Full stack developer",
+    "Creator of web experiences",
+    "Passionate about technology",
+    "Problem solver",
+    "Expert in data processing"
 ];
 
 let currentPhraseIndex = 0;
